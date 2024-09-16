@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eptorypor.github.io/sitemap.html.gz
+Sitemap: https://eptorypor.github.io/app/sitemap.html.gz
+Sitemap: https://eptorypor.github.io/assets/sitemap.html.gz
+Sitemap: https://eptorypor.github.io/css/sitemap.html.gz
+Sitemap: https://eptorypor.github.io/includes/sitemap.html.gz
+Sitemap: https://eptorypor.github.io/item/sitemap.html.gz
+Sitemap: https://eptorypor.github.io/src/sitemap.html.gz
